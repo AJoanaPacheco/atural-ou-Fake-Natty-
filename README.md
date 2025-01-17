@@ -13,6 +13,8 @@ ChatGPT, Canva
 
 ## 🧐 Processo de Criação
 Pensei em um solução do que vejo na prática, no dia a dia dos clientes . Criei o projeto no chatgpt e a imagem no canva.
-![IMG_7978](https://github.com/user-attachments/assets/f42e5d83-6ee8-46d2-aad9-625a2eef3695)
+
+#FAKE
+https://www.canva.com/design/DAGcdJ3Ibk0/V4s3w9z0ixs5c92EcH5fHA/edit
 
 
